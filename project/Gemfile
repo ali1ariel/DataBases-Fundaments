@@ -1,3 +1,6 @@
 source 'https://rubygems.org'
 
 gem 'mysql2'
+gem 'ServiceWorker::Rails'
+gem 'MaterializeCSS'
+gem 'rake'
